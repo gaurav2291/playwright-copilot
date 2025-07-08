@@ -1,0 +1,33 @@
+# Node
+node_modules/
+
+# Playwright
+playwright-report/
+test-results/
+
+# VSCode
+.vscode/
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Allure
+allure-results/
+allure-report/
+
+# Misc
+*.tsbuildinfo
+
+# Coverage
+coverage/
+
+# JUnit
+junit.xml
